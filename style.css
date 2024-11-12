@@ -1,0 +1,29 @@
+	* {
+		margin: 20px;
+	}
+
+	body {
+			background-color: #EEEEEE;
+		}
+
+		h1 {
+			margin-left: 2%;
+		}
+
+		img {
+			width: 100%;
+			border-radius: 16px;
+			border: 5px solid white;
+			margin-left: 10%;
+			margin-top: 30px;
+		}
+
+		p {
+			margin-top: 30px;
+		}
+
+		/*style for image*/
+		
+		.row { 
+			margin: auto;
+		}
